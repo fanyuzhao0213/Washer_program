@@ -10,3 +10,4 @@
 !*.lib
 !*.a
 !.gitignore
+!.README.MD
