@@ -1,0 +1,12 @@
+*.*
+!*.c
+!*.h
+!.mxproject
+!*.ioc
+!*.uvprojx
+!*.uvoptx
+!*.s
+!*.S
+!*.lib
+!*.a
+!.gitignore
